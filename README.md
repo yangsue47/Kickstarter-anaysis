@@ -11,5 +11,5 @@ Perform analysis on Kickstarter data to uncover trends (1st project)
 - Since funding is a major contribution to the success of a campaign, it is recommended that the goal be more around $4,000 to have a higher success rate. 
 
 ### The following graphs highlight some of the data summary points
-![Parent Category Outcomes]/(Parent Category Outcomes.png)
+![Parent Category Outcomes]/(yangsue47/Kickstarter-anaysis/Parent%20Category%20Outcomes.png)
 

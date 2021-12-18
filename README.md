@@ -20,3 +20,7 @@ Perform analysis on Kickstarter data to uncover trends (1st project)
 
 #### This graph shows a trend of the outcomes based on the launch date of the campaign
 <img src = "Outcomes Based on Launch Date.png">
+
+Recommendations based on the data
+- Start the campaign in May
+- Reduce budget down to $4,000

@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose
-The purpose of this analysis is to understand how Theater campaigns fared with respect to the launch date and funding goals. 
+Louise is an up and coming play writer who wants to put her play "Fever" into action. She started a crowd funding campaign to support the cost of the project. Now that she's nearing her goal, she wants to know when is the best time to start. The purpose of this analysis is to understand how theater campaigns fared with respect to the launch date and funding goals. 
 
 ## Analysis and Challenges
 
